@@ -1,9 +1,6 @@
 
-/**Aluna: Franciele Almeida de Araujo
+/**Aluna: Patrick Dias
  * Materia: Contrução de Algoritmo
- * Curso: Tecnologia em Analise e Desenvolvimento de Sistemas
- * Docente: Pedro Siqueira
- * 
  *2)Dado um número natural N, seguido por N números decimais, qual a soma dos números lidos, 
 a quantidade de números lidos, o maior e o menor número lido e a média aritmética dos números lidos?
 O número N não deve ser considerado. Se N=0, então não haverá outros números a serem lidos, 
@@ -12,7 +9,7 @@ logo, a resposta deve ser zero para cada saída solicitada.
 
 import java.util.Scanner;
 
-public class Exercicio2 {
+public class Exmoodle02 {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
