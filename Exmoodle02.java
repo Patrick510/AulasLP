@@ -1,5 +1,5 @@
 
-/**Aluna: Patrick Dias
+/**Aluno: Patrick Dias
  * Materia: Contrução de Algoritmo
  *2)Dado um número natural N, seguido por N números decimais, qual a soma dos números lidos, 
 a quantidade de números lidos, o maior e o menor número lido e a média aritmética dos números lidos?
