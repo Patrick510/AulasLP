@@ -1,5 +1,5 @@
 
-/**Aluna: Patrick Dias
+/**Aluno: Patrick Dias
  * Materia: Contrução de Algoritmo
 * 1) Dados dois números naturais X e Y, quais os múltiplos de X menores que Y, em ordem DECRESCENTE?
 
