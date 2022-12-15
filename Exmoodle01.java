@@ -1,15 +1,13 @@
 
-/**Aluna: Franciele Almeida de Araujo
+/**Aluna: Patrick Dias
  * Materia: Contrução de Algoritmo
- * Curso: Tecnologia em Analise e Desenvolvimento de Sistemas
- * Docente: Pedro Siqueira
 * 1) Dados dois números naturais X e Y, quais os múltiplos de X menores que Y, em ordem DECRESCENTE?
 
 */
 
 import java.util.Scanner;
 
-public class Exercicio01 {
+public class Exmoodle01 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Informe dois numeros");
